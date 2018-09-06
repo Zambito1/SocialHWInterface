@@ -13,3 +13,15 @@ body {
 .preview:hover {
 	max-width: 100%;
 }
+
+#account-prompt {
+	float: right;
+}
+
+.header > h1 {
+	float: left;
+}
+
+.header {
+	display: flow-root;
+}
